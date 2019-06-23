@@ -1,12 +1,12 @@
 <?php
 /* 
 ------------------
-Language: English
+Language: Turkish
 ------------------
 */
 $lang = array();
-$lang['BAD_CODE'] = 'Bad code! Please try again. Your code is on your e-mail.';
-$lang['ACCOUNT_SUCESFULLY_ACTIVATED'] = 'Congratulations, your account has been successfully activated. To log into the game click.';
+$lang['BAD_CODE'] = 'Hatalı kod! Lütfen tekrar deneyin. Kodunuz e-postanızda. ';
+$lang['ACCOUNT_SUCESFULLY_ACTIVATED'] = 'Tebrikler, hesabınız başarıyla aktifleştirildi. Oyuna giriş yapmak için tıklayın.';
 $lang['MESSAGE_HAS_BENN_SENT'] = 'Message has been sent';
 $lang['YOU_MUST_WRITE_SOMETHING'] = 'You have to write something!';
 $lang['CONTACT_ADMINISTRATORS.PHP'] = 'Contact administrators';
